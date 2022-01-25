@@ -55,7 +55,7 @@ class ClipShadow extends StatelessWidget {
   Widget build(BuildContext context) {
     return CustomPaint(
       painter: _ClipShadowPainter(
-          clipShadow: boxShadow,
+          boxShadows: boxShadow,
           clipper: clipper
       ),
       child: ClipPath(

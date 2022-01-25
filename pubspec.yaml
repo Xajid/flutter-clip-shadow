@@ -5,7 +5,7 @@ author: Maopy <maopy920208@gmail.com>
 homepage: https://github.com/Maopy/flutter-clip-shadow
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
